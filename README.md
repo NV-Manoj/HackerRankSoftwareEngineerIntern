@@ -12,7 +12,7 @@ This repository contains my **HackerRank Certification** for the **Software Engi
 
 You can view my certificate by downloading it from this repository:
 
-1. Navigate to the **HackerRankSoftwareEngineerIntern.pdf** file.
+1. Navigate to the **SoftwareEngineer(HackerRank).pdf** file.
 3. Open the attached PDF file to view the certificate.
 
 ## Contact Information
